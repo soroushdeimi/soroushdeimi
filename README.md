@@ -28,10 +28,11 @@ I'm a Computer Science student at the **University of Tehran** bridging the gap 
 
 ### Connect with Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-
-<br />
-
-[linkedin]: https://linkedin.com/in/soroush-deimi
-[email]: mailto:soroushdeimi@gmail.com
+<div align="left">
+  <a href="https://linkedin.com/in/soroush-deimi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:soroushdeimi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
