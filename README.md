@@ -6,7 +6,7 @@
 
 ---
 
-I'm a Computer Science student at the **University of Tehran** bridging the gap between **Systems Engineering** and **Brain-Inspired AI**. My passion lies in building high-performance infrastructure to simulate complex biological neural networks and optimize AI inference.
+I'm a Computer Science student at the **University of Tehran** bridging the gap between **Systems Engineering** and **Brain-Inspired AI**.
 ---
 
 ### Languages and Tools
