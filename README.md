@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Soroush! 
 
-<!--
-**soroushdeimi/soroushdeimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computational Neuroscience & DevOps | Modeling Cortical Dynamics 
 
-Here are some ideas to get you started:
+> *"Thought rolls for hungry minds from brainwaves to neural nets, one bite at a time."* 🍣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm a Computer Science student at the **University of Tehran** bridging the gap between **Systems Engineering** and **Brain-Inspired AI**. My passion lies in building high-performance infrastructure to simulate complex biological neural networks and optimize AI inference.
+---
+
+### Languages and Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,kubernetes,jenkins,azure,kafka,grafana,prometheus,postgres,redis,git,vim&perline=8" />
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=soroushdeimi&show_icons=true&theme=radical" height="150" alt="Soroush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroushdeimi&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### Connect with Me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
+
+<br />
+
+[linkedin]: https://linkedin.com/in/soroush-deimi
+[email]: mailto:soroushdeimi@gmail.com
