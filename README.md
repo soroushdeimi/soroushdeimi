@@ -1,4 +1,4 @@
-# Hi there, I'm Soroush! 
+# Hi I'm Soroush! 
 
 ### Computational Neuroscience & DevOps | Modeling Cortical Dynamics 
 
@@ -12,7 +12,7 @@ I'm a Computer Science student at the **University of Tehran** bridging the gap 
 ### Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,kubernetes,jenkins,azure,kafka,grafana,prometheus,postgres,redis,git,vim&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,rust,latex,bash,linux,docker,kubernetes,kafka,postgres,redis,neo4j,git,vim&perline=8" />
 </div>
 
 ---
