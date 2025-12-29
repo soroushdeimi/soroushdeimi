@@ -6,9 +6,6 @@
 
 ---
 
-I'm a Computer Science student at the **University of Tehran** bridging the gap between **Systems Engineering** and **Brain-Inspired AI**.
----
-
 ### Languages and Tools
 
 <div align="left">
@@ -17,13 +14,10 @@ I'm a Computer Science student at the **University of Tehran** bridging the gap 
 
 ---
 
-### GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=soroushdeimi&show_icons=true&theme=radical" height="150" alt="Soroush's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroushdeimi&layout=compact&theme=radical" height="150" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soroushdeimi&show_icons=true&theme=radical" height="170" alt="Soroush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soroushdeimi&layout=compact&theme=radical" height="170" alt="Top Languages" />
 </div>
-
 ---
 
 ### Connect with Me
